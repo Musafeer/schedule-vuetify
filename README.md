@@ -1,2 +1,2 @@
 # schedule-vuetify
- Schedule Calendar using Vuetify
+ learning vuetify
