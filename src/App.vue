@@ -9,7 +9,7 @@
             <v-spacer></v-spacer>
             <v-toolbar-items class="hidden-sm-and-down">
                 <v-btn flat to="/" exact>Home</v-btn>
-                <v-btn flat to="/about">Appoinment List</v-btn>
+                <v-btn flat to="/about">Appointment List</v-btn>
             </v-toolbar-items>
         </v-toolbar>
         <!-- End of app toolbar -->
